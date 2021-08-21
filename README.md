@@ -4,7 +4,7 @@ Like getting rickrolled, but with Nyancat
 
 #### About this fork
 
-This fork contains updated dependencies. It should now be compatible with node 14.
+This fork contains updated dependencies. It should now be compatible with Node 14.
 
 ###### Updates:
 

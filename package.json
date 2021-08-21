@@ -1,11 +1,11 @@
 {
-	"name": "nyan",
+	"name": "@das.laboratory/nyan",
 	"version": "1.1.0",
-	"description": "Like getting rickrolled, but with Nyancat",
+	"description": "Like getting rickrolled, but with Nyancat. Updated dependencies for Node 14.",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kanatzidis/nyan.git"
+		"url": "https://github.com/NicolasReibnitz/nyan"
 	},
 	"author": "Gregori Kanatzidis",
 	"homepage": "https://github.com/kanatzidis/nyan",
