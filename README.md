@@ -2,6 +2,17 @@
 
 Like getting rickrolled, but with Nyancat
 
+#### About this fork
+
+This fork contains updated dependencies. It should now be compatible with node 14.
+
+###### Updates:
+
+-   [node-speaker](https://github.com/TooTallNate/node-speaker) v0.2.4 ➜ v0.5.3
+-   [node-lame](https://github.com/TooTallNate/node-lame) v1.1.2 ➜ [suldashi/node-lame](https://github.com/suldashi/node-lame) v1.2.5
+
+The original [nyan](https://github.com/kanatzidis/nyan) code by [kanatzidis](https://github.com/kanatzidis) remains untouched.
+
 #### Usage
 
 Just `require('nyan')`, then wonder about yourself.
